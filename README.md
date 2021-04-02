@@ -1,12 +1,12 @@
-## What is this?
+# What is this?
 This gives an example for how to add add-on vehicles as a resource to
 your alt:V server. This of course gives an overview as detailed as possible.
 
-## Overview
+# Overview
 "How to Setup" might seem a bit difficult
 
 
-## How to Setup
+# How to Setup
 1. Copy the "vehicle" folder into your "resources" folder
 ('.../altv-server/resources/'). 
 2. Rename it to anything you want (ex.: MANUFACTURER_MODEL).
@@ -21,8 +21,8 @@ this repository), into 'vehicle/stream/assets/assets'.
 8. Copy-Paste every '.yft' file which you did not used in step 5 into
 'vehicle/stream/assets/mods'.
 
-## Description
-# main files and tuning
+# Description
+## main files and tuning
 'vehicle/stream/assets/assets' ->
 '.yft' files in 'vehicle/stream/assets/mods' ->
 'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
