@@ -2,12 +2,12 @@
 This gives an example for how to add add-on vehicles as a resource to
 your alt:V server. This of course gives an overview as detailed as possible.
 
-#
 # Overview
+#
 "How to Setup" might seem a bit difficult
 
-#
 # How to Setup
+#
 1. Copy the "vehicle" folder into your "resources" folder
 ('.../altv-server/resources/'). 
 2. Rename it to anything you want (ex.: MANUFACTURER_MODEL).
@@ -23,8 +23,8 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 8. Copy-Paste every '.yft' file which you did not used in step 5 into
 'vehicle/stream/assets/mods'.
 
-#
 # Description
+#
 #### main design and tuning (design)
 
 'vehicle/stream/assets/assets'
