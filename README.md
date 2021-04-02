@@ -24,29 +24,59 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 # Description
 [main design and tuning (design)]
-'vehicle/stream/assets/assets' ->
-'.yft' files in 'vehicle/stream/assets/mods' ->
-'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
+
+'vehicle/stream/assets/assets'
+
 ->
+
+'.yft' files in 'vehicle/stream/assets/mods'
+
+->
+
+'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
+
+->
+
+
 
 [audio files]
+
 '.dat[...]' files in 'vehicle/stream/audio'
+
 ->
 
+
+
 [meta files]
+
 'dlctext.meta' in 'vehicle/stream/'
+
 -> 
+
 'vehicles.meta' in 'vehicle/stream/'
+
 -> 
+
 'vehiclelayouts.meta' in 'vehicle/stream/'
+
 ->
+
 'caraddoncontentunlocks.meta' in 'vehicle/stream/'
+
 ->
+
 'carcols.meta' in 'vehicle/stream/'
+
 -> collision behavior of the vehicle
+
 'carvariations.meta' in 'vehicle/stream/'
+
 -> differences between models (important for vehicle packs)
+
 'handling.meta' in 'vehicle/stream/'
+
 -> handling behavior of the vehicle
+
 'vehicleweapons.meta' in 'vehicle/stream/'
+
 -> weapons on the vehicle
