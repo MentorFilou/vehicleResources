@@ -8,8 +8,9 @@ as possible.
 "How to Setup" and "Descpription" might seem a bit difficult, but as said
 above this gives an overview as detailed as possible. Following the
 #HowToSetup a few times it will get a routine for you and then this will
-be much easier. The documentation of the included file types (#Description)
-also is not as simple, but this is also not necesarry to know.
+be much easier. The documentation of the included file types
+(#AdditionalInformation) also is not as simple, but this is also not
+necesarry to know.
 
 # How to Setup
 1. Copy the "vehicle" folder into your "resources" folder
@@ -27,7 +28,7 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 8. Copy-Paste every '.yft' file which you did not used in step 5 into
 'vehicle/stream/assets/mods'.
 
-# Description
+# Additional Information
 #### main design and tuning (design)
 
 '.yft' files in 'vehicle/stream/assets/assets'
