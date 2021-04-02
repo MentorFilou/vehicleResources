@@ -1,16 +1,9 @@
+wip
 # What is this?
 This gives an example for how to add add-on vehicles as a resource to
 your alt:V server and documents all the stuff which can possibly be an
 add-on vehicle resource. This of course gives an overview as detailed
 as possible.
-
-# Prologue
-"How to Setup" and "Descpription" might seem a bit difficult, but as said
-above this gives an overview as detailed as possible. Following the
-#HowToSetup a few times it will get a routine for you and then this will
-be much easier. The documentation of the included file types
-(#AdditionalInformation) also is not as simple, but this is also not
-necesarry to know.
 
 # How to Setup
 1. Copy the "vehicle" folder into your "resources" folder
@@ -101,4 +94,3 @@ difference of'.datxx', '.datxx.rel' & '.datxx.nametable'
 'dlctext.meta' in 'vehicle/stream/'
 
 -> ? (only '.meta' not mentioned in 'stream.cfg')
-
