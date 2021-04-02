@@ -1,12 +1,8 @@
 # What is this?
-[EN] This gives an example for how to add add-on vehicles as a resource to
+This gives an example for how to add add-on vehicles as a resource to
 your alt:V server and documents all the stuff which can possibly be an
 add-on vehicle resource. This of course gives an overview as detailed
 as possible.
-
-[DE] Im folgenden liegt ein Überblick darüber zugrunde, welche Schritte
-durchgeführt werden müssen, um ein Fahrzeug in alt:V hinzuzufügen. Dieses
-Repository soll dabei einen möglichst detaillierten Einblick darein geben.
 
 # Prologue
 "How to Setup" and "Descpription" might seem a bit difficult, but as said
