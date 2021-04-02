@@ -23,7 +23,7 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 'vehicle/stream/assets/mods'.
 
 # Description
-[main design and tuning (design)]
+#### main design and tuning (design)
 
 'vehicle/stream/assets/assets'
 
@@ -39,7 +39,8 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 
 
-[audio files]
+#
+### audio files
 
 '.dat[...]' files in 'vehicle/stream/audio'
 
@@ -47,7 +48,7 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 
 
-[meta files]
+### meta files
 
 'dlctext.meta' in 'vehicle/stream/'
 
