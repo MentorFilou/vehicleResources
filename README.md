@@ -43,29 +43,25 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 ->
 
-'.dat[...]' files in 'vehicle/stream/audio'
+'_game.dat10' files in 'vehicle/stream/audio'
 
 ->
+
+'_game.dat54' files in 'vehicle/stream/audio'
+
+->
+
+'_game.dat151' files in 'vehicle/stream/audio'
+
+->
+
+'.datxx', '.datxx.rel' & '.datxx.nametable'
+
+-> ?
 
 
 #
 ### meta files
-
-'dlctext.meta' in 'vehicle/stream/'
-
--> 
-
-'vehicles.meta' in 'vehicle/stream/'
-
--> 
-
-'vehiclelayouts.meta' in 'vehicle/stream/'
-
-->
-
-'caraddoncontentunlocks.meta' in 'vehicle/stream/'
-
-->
 
 'carcols.meta' in 'vehicle/stream/'
 
@@ -82,3 +78,19 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 'vehicleweapons.meta' in 'vehicle/stream/'
 
 -> weapons on the vehicle
+
+'dlctext.meta' in 'vehicle/stream/'
+
+-> ? (only '.meta' not mentioned in 'stream.cfg'
+
+'vehicles.meta' in 'vehicle/stream/'
+
+-> ?
+
+'vehiclelayouts.meta' in 'vehicle/stream/'
+
+-> ?
+
+'caraddoncontentunlocks.meta' in 'vehicle/stream/'
+
+-> ?
