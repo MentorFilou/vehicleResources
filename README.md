@@ -26,36 +26,36 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 '.yft' files in 'vehicle/stream/assets/assets'
 
-->
+-> ? (base)
 
 '.ytd' files in 'vehicle/stream/assets/assets'
 
--> 
+-> ? (probably texture related base as it is a '.ytd')
 
 '.yft' files in 'vehicle/stream/assets/mods'
 
-->
+-> extended tuning stuff for this vehicle (liveries, spoilers, ...)
 
 #
 ### audio files
 
-'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
+'.awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
 
-->
+-> ?
 
-'_game.dat10' files in 'vehicle/stream/audio'
+'_awp.dat10' files in 'vehicle/stream/audio'
 
-->
+-> ?
 
-'_game.dat54' files in 'vehicle/stream/audio'
+'_sounds.dat54' files in 'vehicle/stream/audio'
 
-->
+-> ?
 
 '_game.dat151' files in 'vehicle/stream/audio'
 
-->
+-> ?
 
-'.datxx', '.datxx.rel' & '.datxx.nametable'
+difference of'.datxx', '.datxx.rel' & '.datxx.nametable'
 
 -> ?
 
@@ -79,10 +79,6 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 
 -> weapons on the vehicle
 
-'dlctext.meta' in 'vehicle/stream/'
-
--> ? (only '.meta' not mentioned in 'stream.cfg'
-
 'vehicles.meta' in 'vehicle/stream/'
 
 -> ?
@@ -94,3 +90,8 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 'caraddoncontentunlocks.meta' in 'vehicle/stream/'
 
 -> ?
+
+'dlctext.meta' in 'vehicle/stream/'
+
+-> ? (only '.meta' not mentioned in 'stream.cfg')
+
