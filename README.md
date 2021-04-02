@@ -24,24 +24,29 @@ this repository) or very similiar if this is a vehicle pack (smth like 'NAMEa',
 # Description
 #### main design and tuning (design)
 
-'vehicle/stream/assets/assets'
+'.yft' files in 'vehicle/stream/assets/assets'
 
 ->
+
+'.ytd' files in 'vehicle/stream/assets/assets'
+
+-> 
 
 '.yft' files in 'vehicle/stream/assets/mods'
-
-->
-
-'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
 
 ->
 
 #
 ### audio files
 
+'awc' files in 'vehicle/stream/audio/sfx/dlc_NAME'
+
+->
+
 '.dat[...]' files in 'vehicle/stream/audio'
 
 ->
+
 
 #
 ### meta files
