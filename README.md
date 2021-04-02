@@ -1,6 +1,8 @@
 # What is this?
 This gives an example for how to add add-on vehicles as a resource to
-your alt:V server. This of course gives an overview as detailed as possible.
+your alt:V server and documents all the stuff which can possibly be an
+add-on vehicle resource. This of course gives an overview as detailed
+as possible.
 
 # Overview
 "How to Setup" might seem a bit difficult
