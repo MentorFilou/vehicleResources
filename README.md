@@ -14,7 +14,8 @@ This is an example documentation of hwo to use an add-on vehicle on alt:V.
 9. Copy-Paste every '.dat-' file ('.dat10', '.dat10.nametable', '.dat10.rel', '.dat54', '.dat54.nametable', '.dat54.rel', '.dat151', '.dat151.nametable' & '.dat151.rel') into 'stream/audio'.
 10. Copy-Paste the '.awc' files into 'stream/audio/sfx'.
 11. Remove every mentioned file on the 'stream.cfg' which was not included in this add-on vehicle.
-12. Add the folder name (base: 'vehicle') to the 'server.cfg' as a resource.
+12. Rename the audio files in the 'stream.cfg'.
+13. Add the folder name (base: 'vehicle') to the 'server.cfg' as a resource.
 
 Now this vehicle should just work all fine for you.
 
