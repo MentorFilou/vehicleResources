@@ -24,4 +24,4 @@ This is an example documentation of an add-on vehicle in alt:V multiplayer.
 - The folder structure is just an example.
 
 ## Use it as a template...
-A good advice might be to have a template folder. Therefore just do step 1, but then name it something like '.vehicles', '!vehex', '#veh' or '_tempvehicle'. (The signs will list this template folder in top of your resources.) Now do steps 3 to 6. Your template folder is done. From now on you just have to copy your tempkate name it as you want and do steps 7 to 12.
+A good advice might be to have a template folder. Therefore just do step 1, but then name it something like '.vehicles', '!exampleveh', '#veh' or '_vehicletemp'. (The signs will list this template folder in top of your resources.) Now do steps 3 to 6. Your template folder is done. From now on you just have to copy your tempkate name it as you want and do steps 7 to 12.
