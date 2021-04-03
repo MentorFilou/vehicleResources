@@ -1,5 +1,5 @@
 ## What is this?
-This is an example documentation of an add-on vehicle in alt:V multiplayer.
+This is an example documentation of hwo to use an add-on vehicle on alt:V.
 
 # How to Setup
 1. Copy the "vehicle" folder into your "resources" folder ('.../altv-server/resources/'). 
@@ -23,7 +23,7 @@ Now this vehicle should just work all fine for you.
 - The meta files are mentioned as them.
 - The audio sfx files are mentioned as their folder.
 - The other audio files are mentioned grouped as '.dat' for every different type of them. They are most likely named like you can see in 'examplefiles/stream/audio' with '_amp', '_game' & '_sounds'.
-- The folder structure is just an example.
+- The folder structure and the file names are just examples and could be different.
 
 ## Use it as a template...
 A good advice might be to have a template folder. Therefore just do step 1, but then name it something like '.vehicles', '!exampleveh', '#veh' or '_vehicletemp'. (The signs will list this template folder in top of your resources.) Now do steps 3 to 6. Your template folder is done. From now on you just have to copy your tempkate name it as you want and do steps 7 to 12.
