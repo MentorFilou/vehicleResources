@@ -20,7 +20,7 @@ This is an example documentation of an add-on vehicle in alt:V multiplayer.
 - The 'dlctext.meta' is never mentioned in the 'stream.cfg'.
 - The meta files are mentioned as them.
 - The audio sfx files are mentioned as their folder.
-- The other audio files are mentioned grouped as '.dat' for every different type of them. They are most likely named like you can see in 'examplefiles/stream/audio' with '_awp', '_game' & '_sounds'.
+- The other audio files are mentioned grouped as '.dat' for every different type of them. They are most likely named like you can see in 'examplefiles/stream/audio' with '_amp', '_game' & '_sounds'.
 - The folder structure is just an example.
 
 ## Use it as a template...
