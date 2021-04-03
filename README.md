@@ -16,6 +16,8 @@ This is an example documentation of an add-on vehicle in alt:V multiplayer.
 11. Remove every mentioned file on the 'stream.cfg' which was not included in this add-on vehicle.
 12. Add the folder name (base: 'vehicle') to the 'server.cfg' as a resource.
 
+Now this vehicle should just work all fine for you.
+
 ## Infos
 - The 'dlctext.meta' is never mentioned in the 'stream.cfg'.
 - The meta files are mentioned as them.
