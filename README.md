@@ -64,7 +64,7 @@ Ich empfehle euch, dass ihr euch einen Vorlageordner für Fahrzeugresourcen mach
 
 
 # Credits
-Rockstar Games (Grand Theft Auto V) -> https://www.rockstargames.com
-multiplayer plattform alt:V -> https://altv.mp/#/
+- Rockstar Games (Grand Theft Auto V) -> https://www.rockstargames.com
+- multiplayer plattform alt:V -> https://altv.mp/#/
 
-btw, here is alt:V's official tutorial for this -> https://wiki.altv.mp/wiki/Tutorial:Stream_Vehicles
+=> btw, here is alt:V's official tutorial for this -> https://wiki.altv.mp/wiki/Tutorial:Stream_Vehicles
