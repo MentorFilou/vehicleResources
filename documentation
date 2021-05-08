@@ -40,7 +40,7 @@ difference of'.datxx', '.datxx.rel' & '.datxx.nametable'
 -> collision behavior of the vehicle
 
 'carvariations.meta' in 'vehicle/stream/'
--> differences between models (important for vehicle packs)
+-> ?
 
 'handling.meta' in 'vehicle/stream/'
 -> handling behavior of the vehicle
@@ -60,4 +60,4 @@ difference of'.datxx', '.datxx.rel' & '.datxx.nametable'
 -> ?
 
 'dlctext.meta' in 'vehicle/stream/'
--> ? [only '.meta' not mentioned in 'stream.cfg']
+-> ? [only '.meta' not mentioned in 'stream.cfg', seems to be the same over every (vehicle?) resource you add (maybe definition of resource type?)]
