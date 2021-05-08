@@ -61,3 +61,10 @@ Das Fahrzeug sollte jetzt auf deinem Server spawnbar sein.
 
 ### Nutzung als Vorlage
 Ich empfehle euch, dass ihr euch einen Vorlageordner für Fahrzeugresourcen macht. So könnt ihr schneller neue Fahrzeuge hinzufügen. Dafür solltet ihr einfach Schritt 1 machen (Ordner kopieren) und den Ordner dann sowas wie '.vehicles', '!exampleveh', '#veh' oder '_vehicletemp' nennen. (Die Sonderzeichen vor dem Namen sollen den Ordner ganz oben listen.) Wenn ihr jetzt die Schritte 3 bis 6 macht, habt ihr eine fertige Vorlage. Ab sofort müsst ihr den Ordner nur noch kopieren, umbennen wie ihr wollt und könnt mit den Schritten 7 bis 12 ein neues Fahrzeug hinzufügen.
+
+
+# Credits
+Rockstar Games (Grand Theft Auto V) -> https://www.rockstargames.com
+multiplayer plattform alt:V -> https://altv.mp/#/
+
+btw, here is alt:V's official tutorial for this -> https://wiki.altv.mp/wiki/Tutorial:Stream_Vehicles
