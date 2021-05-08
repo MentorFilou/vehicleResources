@@ -44,12 +44,14 @@ difference of'.datxx', '.datxx.rel' & '.datxx.nametable'
 
 'handling.meta' in 'vehicle/stream/'
 -> handling behavior of the vehicle
+-> more specific reference: https://forums.gta5-mods.com/topic/3842/tutorial-handling-meta
 
 'vehicleweapons.meta' in 'vehicle/stream/'
 -> weapons on the vehicle
 
 'vehicles.meta' in 'vehicle/stream/'
--> ?
+-> basic definition of the vehicle (namings/hashes all over other files, ...)
+-> more specific reference: https://forums.gta5-mods.com/topic/3850/tutorial-vehicles-meta
 
 'vehiclelayouts.meta' in 'vehicle/stream/'
 -> ?
