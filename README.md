@@ -2,11 +2,11 @@
 # **https://github.com/inofficial-altv-tutorials/vehicles**!
 
 
-# en_EN
-### What is this?
+### en_EN
+##### What is this?
 This is an example documentation of how to use an add-on vehicles on the GTA V mp plattform alt:V.
 
-## How to Setup
+#### How to Setup
 1. Copy the "vehicle" folder into your "resources" folder ('.../altv-server/resources/'). 
 2. Rename it to anything you want (ex.: manufacturer_modelname or lspd_pack).
 3. Delete the example '.meta' file in 'stream/'.
@@ -23,7 +23,7 @@ This is an example documentation of how to use an add-on vehicles on the GTA V m
 
 Now this vehicle should just work all fine for you.
 
-### Infos
+##### Infos
 - The 'dlctext.meta' is never mentioned in the 'stream.cfg'.
 - The meta files are mentioned as them.
 - The audio sfx files are mentioned as their folder.
@@ -35,11 +35,11 @@ A good advice might be to have a template folder. Therefore just do step 1, but 
 
 
 
-# de_DE 
-### Was ist das hier?
+### de_DE 
+##### Was ist das hier?
 Es handelt sich bei diesem Repository um eine beispielhafte Vorlage zu Vehicle Add-On Resourcen auf der GTA V Multiplayer Plattform alt:V.
 
-## Wie nutze ich es (Setup)
+#### Wie nutze ich es (Setup)
 1. Kopiere den "vehicle"(de: Fahrzeug) Ordner in deinen "resources" Ordner ('.../altv-server/resources/'). 
 2. Bennene den Ordner, wie du willst (Bsp.: hersteller_modellname oder polizei_pack).
 3. Lösche die beispielhafte '.meta' Datei im Ordner 'stream/'.
@@ -56,7 +56,7 @@ Es handelt sich bei diesem Repository um eine beispielhafte Vorlage zu Vehicle A
 
 Das Fahrzeug sollte jetzt auf deinem Server spawnbar sein.
 
-### Infos
+##### Infos
 - Die Datei 'dlctext.meta' wird in der 'stream.cfg' nie erwähnt, da sie immer dabei ist.
 - Jede '.meta' Datei wird in der 'stream.cfg' einzeln erwähnt.
 - Die Audio Dateien, die im Ordner 'stream/audio/sfx' gelandet sind, werden nicht einzeln, sondern als Ordner in der 'stream.cfg' erwähnt.
@@ -67,7 +67,7 @@ Das Fahrzeug sollte jetzt auf deinem Server spawnbar sein.
 Ich empfehle euch, dass ihr euch einen Vorlageordner für Fahrzeugresourcen macht. So könnt ihr schneller neue Fahrzeuge hinzufügen. Dafür solltet ihr einfach Schritt 1 machen (Ordner kopieren) und den Ordner dann sowas wie '.vehicles', '!exampleveh', '#veh' oder '_vehicletemp' nennen. (Die Sonderzeichen vor dem Namen sollen den Ordner ganz oben listen.) Wenn ihr jetzt die Schritte 3 bis 6 macht, habt ihr eine fertige Vorlage. Ab sofort müsst ihr den Ordner nur noch kopieren, umbennen wie ihr wollt und könnt mit den Schritten 7 bis 12 ein neues Fahrzeug hinzufügen.
 
 
-# Credits
+## Credits
 - Rockstar Games (Grand Theft Auto V) -> https://www.rockstargames.com
 - multiplayer plattform alt:V -> https://altv.mp/#/
 
